@@ -1,0 +1,24 @@
+# Arquivos auxiliares do LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Arquivos temporários do BibTeX (Bibliografia)
+*.bbl
+*.blg
+*.brf
+
+# Arquivos de editores/IDEs (Texmaker, TeXstudio, VS Code, etc.)
+*.sav
+*.bak
+.texpadtmp/
+
+# PDF gerado 
+index.pdf
